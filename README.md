@@ -1,1 +1,1 @@
-# reactjs-queuing-system
+# Đặng Quốc Khánh
