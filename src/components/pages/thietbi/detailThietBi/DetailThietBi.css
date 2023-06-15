@@ -1,0 +1,93 @@
+.layout_DetailThietBi_Form {
+    width: 1112px;
+    height: 604px;
+    /* White */
+    background: #FFFFFF;
+    /* Shadowbox */
+    box-shadow: 2px 2px 8px rgba(232, 239, 244, 0.8);
+    border-radius: 16px;
+    float: left;
+    margin-top: 16px;
+    padding: 16px 24px;
+}
+
+.layout_DetailThietBi_Form_text {
+    /* 20/20 Bold */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+    /* Orange/$-Orange-500 */
+    color: #FF7506;
+    padding-bottom: 20px;
+}
+
+.layout_DetailThietBi_Form_text1 {
+    width: 100%;
+    display: block;
+}
+
+.layout_DetailThietBi_Form_text1_left {
+    float: left;
+    width: 50%;
+}
+
+.layout_DetailThietBi_Form_text1_left_text {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    display: flex;
+    align-items: center;
+    /* Gray/$-gray-500 */
+    color: #282739;
+    float: left;
+    width: 30%;
+}
+
+.layout_DetailThietBi_Form_text1_left_TT {
+    /* 16/16 Reg */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    display: flex;
+    align-items: center;
+    /* Gray/$-gray-400 Text */
+    color: #535261;
+}
+
+.layout_DetailThietBi_Button {
+    margin-top: 16px;
+    float: left;
+    padding-left: 27px;
+}
+
+.layout_DetailThietBi_Button_text {
+    width: 80px;
+    height: 94px;
+    text-align: center;
+    /* Orange/$-Orange-50 */
+    background: #FFF2E7;
+    /* down */
+    box-shadow: 0px 0px 6px #E7E9F2;
+    border-radius: 8px 0px 0px 8px;
+    padding: 12px 4px;
+}
+
+.clear_both {
+    clear: both;
+}
+
+.layout_ThietBi_DetailDichVu_icon {
+    border-radius: 5px;
+    font-size: 24px;
+    background: #FF9138;
+    color: white;
+}

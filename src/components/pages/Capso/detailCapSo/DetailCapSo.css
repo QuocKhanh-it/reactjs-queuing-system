@@ -1,0 +1,85 @@
+.layout_DetailCapSo_Form {
+    width: 1112px;
+    height: 604px;
+    background: #FFFFFF;
+    /* Shadowbox */
+    box-shadow: 2px 2px 8px rgba(232, 239, 244, 0.8);
+    border-radius: 16px;
+    padding: 16px 24px;
+    margin-top: 24px;
+    height: 585px;
+    float: left;
+}
+
+.layout_DetailCapSo_Form_text {
+    /* 20/20 Bold */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+    /* Orange/$-Orange-500 */
+    color: #FF7506;
+    padding-bottom: 20px;
+}
+
+.layout_DetailCapSo_Form_Container {
+    display: block;
+    width: 100%;
+}
+
+.layout_DetailCapSo_Form_Container_left {
+    float: left;
+    width: 50%;
+}
+
+.layout_DetailCapSo_Form_Container_left_text {
+    display: block;
+    width: 100%;
+    padding-bottom: 16px;
+}
+
+.layout_DetailCapSo_Form_Container_left_label {
+    /* 16/16 Semi */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    /* Gray/$-gray-500 */
+    color: #282739;
+    float: left;
+    width: 24%;
+}
+
+.layout_DetailCapSo_Form_Container_left_HoTen {
+    /* 16/16 Reg */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    /* Gray/$-gray-400 Text */
+    color: #535261;
+}
+
+.layout_DetailCapSo_Button {
+    width: 80px;
+    height: 75px;
+    /* Orange/$-Orange-50 */
+    background: #FFF2E7;
+    /* down */
+    box-shadow: 0px 0px 6px #E7E9F2;
+    border-radius: 8px 0px 0px 8px;
+    padding: 12px 4px;
+    float: left;
+    margin-top: 24px;
+    margin-left: 27px;
+}
+
+.clear-both {
+    clear: both;
+}

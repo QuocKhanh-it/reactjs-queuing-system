@@ -1,0 +1,11 @@
+.ant-table-column-sorter {
+    color: white;
+}
+
+.ant-table-thead th.ant-table-column-has-sorters:hover {
+    background: #FF9138;
+}
+
+.ant-table-thead th.ant-table-column-sort {
+    background: #FF9138;
+}

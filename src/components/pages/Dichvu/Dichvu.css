@@ -1,0 +1,56 @@
+.ant-picker-suffix {
+    color: #FF7506;
+}
+
+.ant-table-tbody>tr:nth-child(even) {
+    background-color: #FFF2E7;
+}
+
+.ant-table-cell {
+    border-right: 1px solid #FFE3CD;
+}
+
+.ant-picker {
+    height: 44px;
+}
+
+.ant-input-group .ant-input-affix-wrapper:not(:last-child) {
+    height: 44px;
+}
+
+.ant-input-group>.ant-input-affix-wrapper:not(:last-child) .ant-input {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    height: 33px;
+}
+
+.ant-picker-focused {
+    border-color: #D4D4D7 !important;
+    box-shadow: 0 0 0 2px rgb(24 144 255 / 20%);
+    border-right-width: 1px;
+    outline: 0;
+    border-radius: 8px !important;
+}
+
+.ant-picker-header {
+    display: flex;
+    padding: 0 8px;
+    color: #FF7506;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.ant-picker-header button {
+    color: #FF7506;
+}
+
+.ant-picker-content th {
+    height: 30px;
+    color: #FF7506;
+    line-height: 30px;
+}
+
+.ant-picker:hover,
+.ant-picker-focused {
+    border-color: #FFAC6A;
+    border-right-width: 1px;
+}

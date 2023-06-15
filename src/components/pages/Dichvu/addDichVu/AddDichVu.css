@@ -1,0 +1,31 @@
+.layout_AddDichVu_row_text {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+    /* Orange/$-Orange-500 */
+    color: #FF7506;
+}
+
+.ant-form label {
+    /* 16/16 Semi */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    align-items: center;
+    /* Gray/$-gray-500 */
+    color: #282739;
+}
+
+.ant-input-number {
+    border-radius: 8px;
+}
+
+.ant-input-number-input {
+    text-align: center;
+}

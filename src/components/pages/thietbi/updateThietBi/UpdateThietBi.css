@@ -1,0 +1,21 @@
+.ant-select-multiple .ant-select-selection-item {
+    /* Orange/$-Orange-300 */
+    background: #FFAC6A;
+    /* down */
+    box-shadow: 0px 0px 6px #E7E9F2;
+    border-radius: 9px;
+    width: auto;
+    height: 28px;
+    color: white;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 2px 10px;
+}
+
+.ant-select-multiple .ant-select-selection-item-remove>.anticon {
+    vertical-align: -0.2em;
+    color: white;
+    font-size: 14px;
+}

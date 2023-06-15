@@ -1,0 +1,161 @@
+.layout_addVaiTro_form {
+    width: 1192px;
+    height: 534px;
+    /* White */
+    background: #FFFFFF;
+    /* Shadowbox */
+    box-shadow: 2px 2px 8px rgba(232, 239, 244, 0.8);
+    border-radius: 16px;
+    margin-left: 13px;
+    padding: 16px 24px;
+    display: block;
+}
+
+.layout_addVaiTro_form_thongTin {
+    /* 24/24 Bold */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    /* Orange/$-Orange-500 */
+    color: #FF7506;
+}
+
+.layout_addVaiTro_form_left {
+    float: left;
+    width: 560px;
+}
+
+.layout_addVaiTro_form_left_text {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 12px;
+    /* identical to box height, or 150% */
+    align-items: center;
+    /* Gray/$-gray-500 */
+    color: #282739;
+}
+
+.layout_addVaiTro_form_left input {
+    padding: 10px 270px 10px 12px;
+    width: 560px;
+    height: 44px;
+    left: 0px;
+    top: 8px;
+    /* white */
+    background: #FFFFFF;
+    /* Gray/$-gray-100 */
+    border: 1.5px solid #D4D4D7;
+    box-sizing: border-box;
+    border-radius: 8px;
+    /* Inside auto layout */
+}
+
+.layout_addVaiTro_form_left_text_1 {
+    /* 16/16 Semi */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    display: flex;
+    align-items: center;
+    /* Gray/$-gray-500 */
+    color: #282739;
+    margin-top: 24px;
+}
+
+.layout_addVaiTro_form_left TextArea {
+    padding: 10px 270px 10px 12px;
+    width: 560px;
+    height: 160px;
+    left: 0px;
+    top: 12px;
+    /* white */
+    background: #FFFFFF;
+    /* Gray/$-gray-100 */
+    border: 1.5px solid #D4D4D7;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.layout_addVaiTro_form_right {
+    float: left;
+    width: 560px;
+    margin-left: 24px;
+}
+
+.layout_addVaiTro_form_right_text {
+    /* 16/16 Semi */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    align-items: center;
+    /* Gray/$-gray-500 */
+    color: #282739;
+    margin-top: 12px;
+}
+
+.layout_addVaiTro_form_right_chucNang {
+    width: 560px;
+    height: 420px;
+    /* Orange/$-Orange-50 */
+    background: #FFF2E7;
+    border-radius: 8px;
+    margin-top: 8px;
+    padding: 16px 24px;
+    overflow-y: scroll;
+}
+
+
+/* croll*/
+
+#chucNang::-webkit-scrollbar {
+    width: 6px;
+    background-color: #F5F5F5;
+}
+
+#chucNang::-webkit-scrollbar-thumb {
+    background-color: #FFC89B;
+}
+
+#chucNang::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgb(250, 249, 249);
+    background-color: #F5F5F5;
+}
+
+.layout_addVaiTro_form_right_chucNang_text {
+    /* 20/20 Bold */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+    /* Orange/$-Orange-500 */
+    color: #FF7506;
+    margin-top: 10px;
+}
+
+.ant-form label {
+    width: 100%;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    /* Gray/$-gray-400 Text */
+    color: #535261;
+    margin-top: 10px;
+}

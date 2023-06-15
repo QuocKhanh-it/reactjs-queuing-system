@@ -1,0 +1,29 @@
+.layout_QuanLyVaiTro_text {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    /* Orange/$-Orange-500 */
+    color: #FF7506;
+    width: 1117px;
+    display: block;
+    margin-left: 14px;
+    margin-top: 10px;
+}
+
+.layout_QuanLyVaiTro_text_tuKhoa {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    /* Gray/$-gray-500 */
+    color: #282739;
+}
+
+.ant-input-affix-wrapper {
+    border-right: 0px;
+}

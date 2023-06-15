@@ -1,0 +1,80 @@
+.Modal_ThongBao {
+    width: 360px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    /* Orange/$-Orange-400 */
+    background: #FF9138;
+    padding: 10px 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.Modal_ThongBao h2 {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    /* identical to box height, or 150% */
+    /* White */
+    color: #FFFFFF;
+}
+
+.Modal_body {
+    opacity: 0.6;
+    /* Gray/$-gray-100 */
+    border-bottom: 1.5px solid #D4D4D7;
+    padding: 10px 0px;
+}
+
+.Modal_NguoiDung {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    /* Orange/$-Orange-600 */
+    color: #BF5805;
+}
+
+.Modal_Time {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    /* Gray/$-gray-400 Text */
+    color: #535261;
+}
+
+.Modal_body_layout {
+    width: 360px;
+    height: 500px;
+    background: white;
+    overflow-y: scroll;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+#Modal_1::-webkit-scrollbar {
+    width: 6px;
+    background-color: #F5F5F5;
+}
+
+#Modal_1::-webkit-scrollbar-thumb {
+    background-color: #FFC89B;
+}
+
+#Modal_1::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgb(250, 249, 249);
+    background-color: #F5F5F5;
+}
+
+.thongBao__wrap {
+    background-color: rgb(255, 117, 6);
+    border-radius: 50%;
+    padding: 5px 10px;
+    margin-right: 19px;
+    margin-top: 18px;
+    margin-left: 70px;
+}

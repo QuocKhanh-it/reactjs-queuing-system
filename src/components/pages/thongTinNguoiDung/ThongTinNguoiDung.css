@@ -1,0 +1,36 @@
+.layout_ThongTinNguoiDung_row1 {
+    width: 1152px;
+    height: 397px;
+    /* White */
+    background: #FFFFFF;
+    /* Shadowbox */
+    box-shadow: 2px 2px 8px rgba(232, 239, 244, 0.8);
+    border-radius: 16px;
+    margin-left: 15px !important;
+    margin-top: 60px !important;
+    padding: 16px 24px;
+}
+
+.layout_ThongTinNguoiDung_row_Ten {
+    /* 24/24 Bold */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    align-items: center;
+    /* Gray/$-gray-500 */
+    color: #282739;
+    width: 100%;
+    margin-left: 32px;
+}
+
+.layout_ThongTinNguoiDung_row_input {
+    width: 100%;
+    align-items: center;
+    padding: 10px 16px;
+    /* Gray/$-gray-50 */
+    background: #EAEAEC;
+    border-radius: 6px;
+}

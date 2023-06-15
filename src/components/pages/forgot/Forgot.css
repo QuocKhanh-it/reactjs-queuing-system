@@ -1,0 +1,128 @@
+.forgot_layout {
+    position: relative;
+    width: 1440px;
+    height: 810px;
+    /* BG */
+    background: #F7F7F7;
+    border-radius: 16px;
+}
+
+.forgot_Layout_Left_text {
+    /* Đặt lại mật khẩu */
+    position: absolute;
+    left: 14.51%;
+    right: 73.68%;
+    top: 39.51%;
+    bottom: 57.53%;
+    /* 22/22 Bold */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    /* or 150% */
+    /* Gray/$-gray-500 */
+    color: #282739;
+}
+
+.forgot_Layout_Left_text_1 {
+    /* Vui lòng nhập email để đặt lại mật khẩu của bạn * */
+    position: absolute;
+    width: 396px;
+    height: 27px;
+    left: 94px;
+    top: 360px;
+    /* 18/18 Reg */
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 27px;
+    /* identical to box height, or 150% */
+    color: #37474F;
+}
+
+.forgot_Layout_Left_input {
+    /* Input */
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 270px 10px 12px;
+    position: absolute;
+    width: 400px;
+    height: 44px;
+    left: 94px;
+    top: 391px;
+    /* white */
+    background: #FFFFFF;
+    /* Gray/$-gray-100 */
+    border: 1.5px solid #D4D4D7;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.forgot_Layout_Left_button_group {
+    display: block;
+}
+
+.forgot_Layout_Left_button {
+    /* Button */
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 24px;
+    position: absolute;
+    width: 162px;
+    height: 40px;
+    left: 116px;
+    top: 483px;
+    /* Orange/$-Orange-400 */
+    color: #FF9138;
+    /* down */
+    border: 1px solid #FF9138;
+    box-shadow: 0px 0px 6px #E7E9F2;
+    border-radius: 8px;
+}
+
+.forgot_Layout_Left_button_1 {
+    /* Button */
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 24px;
+    position: absolute;
+    width: 162px;
+    height: 40px;
+    left: 304px;
+    top: 483px;
+    /* Orange/$-Orange-400 */
+    background: #FF9138;
+    /* down */
+    box-shadow: 0px 0px 6px #E7E9F2;
+    border-radius: 8px;
+    border: none;
+    color: white;
+}
+
+.login_Layout_Right {
+    position: absolute;
+    width: 848px;
+    height: 810px;
+    left: 592px;
+    top: 0px;
+    /* White */
+    background: #FFFFFF;
+}
+
+.forgot_Layout_Right_img {
+    position: absolute;
+    width: 711px;
+    height: 560px;
+    left: 635px;
+    top: 153px;
+}
